@@ -23,7 +23,7 @@
     <input type="button" value="Funcionario">
     </a>
     <br><br><br>
-    <a href="carros_cadastrados.php">
+    <a href="carros_disponiveis.php">
     <input type="button" value="Carros Cadastrados">
     </a>
     
